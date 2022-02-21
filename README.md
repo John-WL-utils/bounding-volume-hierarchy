@@ -1,8 +1,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 This is a bare bone bounding volume hierarchy implementation, in Java. It lets you construct BVH objects from .obj files.  
 I couldn't find anything that resembled what I needed on the internet for Java specifically, so I just built my own representation.  
 This implementation is based on the following blog posts:  
