@@ -70,8 +70,12 @@ Don't forget to give the project a star if you think it's worth it! Thanks!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
 <!-- CONTACT -->
 ## Contact
 
 Project Link: [https://github.com/John-WL-utils/bounding-volume-hierarchy](https://github.com/John-WL-utils/bounding-volume-hierarchy)
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+* [This readme file was highly inspired by this template](https://github.com/othneildrew/Best-README-Template)
