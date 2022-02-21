@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BoundingVolumeHierarchy.iml" filepath="$PROJECT_DIR$/BoundingVolumeHierarchy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bounding-volume-hierarchy.iml" filepath="$PROJECT_DIR$/bounding-volume-hierarchy.iml" />
     </modules>
   </component>
 </project>

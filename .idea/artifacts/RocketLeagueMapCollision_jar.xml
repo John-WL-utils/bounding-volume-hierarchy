@@ -2,7 +2,7 @@
   <artifact type="jar" name="RocketLeagueMapCollision:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/RocketLeagueMapCollision_jar</output-path>
     <root id="archive" name="RocketLeagueMapCollision.jar">
-      <element id="module-output" name="BoundingVolumeHierarchy" />
+      <element id="module-output" name="bounding-volume-hierarchy" />
     </root>
   </artifact>
 </component>

@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="BoundingVolumeHierarchy" />
+        <module name="bounding-volume-hierarchy" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="BoundingVolumeHierarchy" target="14" />
+      <module name="bounding-volume-hierarchy" target="14" />
     </bytecodeTargetLevel>
   </component>
 </project>
