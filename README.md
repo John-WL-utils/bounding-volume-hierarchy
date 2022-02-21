@@ -13,7 +13,7 @@ Technicalities:
 * If you need to construct other types of BVH that don't only check for collisions between a mesh and a sphere, 
 you can modify this implementation fairly easily for that matter;  
 * This implementation only handles windows file system when reading .obj files.  
-* Optional objects are used as attributes at multiple places, so the Bvh class is actually not serializable by default. A lot of refactoring is needed if you want to serialize the constructed Bvh object. 
+* Optional objects are used as attributes at multiple places, so the Bvh class is actually not serializable by default. A lot of refactoring is needed if you want to be able to serialize the constructed Bvh object. 
 
 <!-- INSTALLATION -->
 ### Installation
