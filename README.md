@@ -32,7 +32,7 @@ To setup this project with maven localy on your machine, follow these steps:
   ```maven
   <!-- https://github.com/John-WL-utils/bounding-volume-hierarchy -->
   <dependency>
-    <groupId>com.github.John-WL</groupId>
+    <groupId>com.github.John-WL-utils</groupId>
     <artifactId>bvh</artifactId>
     <version>1.0.0</version>
   </dependency>
