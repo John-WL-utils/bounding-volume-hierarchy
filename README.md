@@ -73,7 +73,7 @@ Don't forget to give the project a star if you think it's worth it! Thanks!
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/John-WL-utils/bounding-volume-hierarchy](https://github.com/John-WL-utils/bounding-volume-hierarchy)
+John-William Lebel - lebel.johnw@gmail.com
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
