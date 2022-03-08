@@ -79,4 +79,4 @@ John-William Lebel - lebel.johnw@gmail.com
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [This readme file was highly inspired by this template](https://github.com/othneildrew/Best-README-Template)
+* This readme file was highly inspired by [this template](https://github.com/othneildrew/Best-README-Template)
